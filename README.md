@@ -1,5 +1,7 @@
 # react-native-switcher
 
+A dead simple zoomable-swiper made popular by the Kardashians' apps.
+
 ## Installation
 
 ```
