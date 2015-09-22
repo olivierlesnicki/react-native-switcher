@@ -1,7 +1,7 @@
 {
   "name": "react-native-switcher",
   "version": "0.1.0",
-  "description": "",
+  "description": "A dead simple zoomable-swiper made popular by the Kardashians' apps",
   "main": "index.js",
   "repository": {
     "type": "git",
