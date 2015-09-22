@@ -6,6 +6,10 @@
 npm install react-native-switcher --save
 ```
 
+## Demo
+
+![demo](/demo.gif?raw=true)
+
 ## Usage
 
 ```js
