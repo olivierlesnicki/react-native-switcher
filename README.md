@@ -1,12 +1,12 @@
 # react-native-switcher
 
-## Add it to your project
+## Installation
 
 ```
 npm install react-native-switcher --save
 ```
 
-## Basic usage
+## Usage
 
 ```js
 var Switcher = require('react-native-switcher');
