@@ -1,0 +1,16 @@
+{
+  "name": "react-native-switcher",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierlesnicki/react-native-switcher.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierlesnicki/react-native-switcher/issues"
+  },
+  "homepage": "https://github.com/olivierlesnicki/react-native-switcher#readme"
+}
